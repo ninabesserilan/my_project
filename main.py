@@ -1,6 +1,6 @@
-def print_r():
-    print('r')
+def run_main():
+    # Program logic...
+    return result
 
-def hey_o():
-    print("hey oh")
-
+if __name__ == '__main__':
+    run_main()
